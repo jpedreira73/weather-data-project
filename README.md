@@ -1,3 +1,2 @@
 # weather-data-project
-Weather data repository for the Comprehensive Data Management in Agriculture course
-
+Weather data repository used for Git and data management activities in agricultural data science courses.
